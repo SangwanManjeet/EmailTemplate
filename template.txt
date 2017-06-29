@@ -1,0 +1,1 @@
+<div>Hi<br><br><br>As a part of HR exercise the technical rating of the resources are to be reviewed on Half yearly basis. In this regard, You are requested to please give the technical ratings to {{name}} .<br><br><br>Project Name -:<br>1. {{project_name}}<br><br><br>Your earlier response will be highly obliged.<br/><br/>Thanks</div>

@@ -1,0 +1,13 @@
+{
+  "username": "manjeet662@gmail.com",
+  "password": "31@sangwan",
+  "xlsx_file_name": "odc_manager.xlsx",
+  "template_file_name": "template.txt",
+  "data_index": "2",
+  "email_index": "3",
+  "fields": {
+    "name": 1,
+    "project_name": 2
+  },
+  "email_subject": "{{name}}_{{project_name}}"
+}
